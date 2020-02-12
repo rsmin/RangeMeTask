@@ -22,4 +22,4 @@ Alternatively, you can use command below to execute all the code,
 ```
 Result will be recorded in .log files in Data folder.
 
-For more details, please read [Report.doc](https://github.com/rsmin/RangeMeTask/blob/master/README.md)
+For more details, please read [Report.doc](https://github.com/rsmin/RangeMeTask/blob/master/Task%20Report.docx)
